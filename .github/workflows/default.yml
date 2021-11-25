@@ -1,0 +1,5 @@
+name: "default"
+on: ["push"]
+jobs:
+  first-job:
+    uses: "qwerdffd/gh-retag@v2"
